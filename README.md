@@ -2,7 +2,6 @@
 Automated Hydroponics System ESP32 Access-Point (AP) for Web Server
 # Automated Hydroponics System with ESP32 Web Server (AP Mode)
 
-![Project Banner](https://via.placeholder.com/800x300.png/2c3e50/ffffff?text=Smart+Hydroponics+System)
 
 An IoT-based automated hydroponics control system using ESP32 in Access Point (AP) mode. Provides real-time environmental monitoring and control through a responsive web interface.
 
